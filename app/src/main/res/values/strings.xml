@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AppPrietoBrigitte</string>
+    <string name="btnregistro">REGISTRO</string>
+    <string name="tituloformulario">FORMULARIO</string>
+    <string name="titulolistado">LISTADO</string>
+    <string name="titulocuestionario">CUESTIONARIO COVID-19</string>
+    <string name="pregunta1">1.- Marca tus síntomas.</string>
+    <string name="cb1">Disminución del gusto o del olfato</string>
+    <string name="cbtos">Tos</string>
+    <string name="cb2">Dolor de garganta</string>
+    <string name="cb3">Congestión Nasal</string>
+    <string name="cb5">Fiebre</string>
+    <string name="cb6">Ninguno</string>
+    <string name="pregunta2">2.- ¿Tienes fiebre mayor a 37 grados?</string>
+    <string name="rbSI">SI</string>
+    <string name="rbno">NO</string>
+    <string name="pregunta3">¿Vives solo en casa?</string>
+    <string name="pregunta4">4.-¿Vives con un adulto mayor en casa?</string>
+    <string name="pregunta5">5.-¿Cuentas con los siguientes servicios?</string>
+    <string name="cbluz">LUZ</string>
+    <string name="cbagua">Agua</string>
+    <string name="cbinternet">Internet</string>
+    <string name="cbcable">Cable</string>
+    <string name="bresolver">Resolver</string>
+</resources>
